@@ -1,0 +1,2 @@
+wc is UNIX command know as well as word count, it reads list of files or line inputs, count all characters within them
+and gives us info about number of lines, words and characters on it.
